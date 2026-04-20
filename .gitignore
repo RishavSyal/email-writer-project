@@ -1,0 +1,11 @@
+# Frontend (React / Node)
+node_modules/
+build/
+dist/
+
+# Backend (Spring Boot)
+target/
+*.log
+
+# Common (important)
+.env
